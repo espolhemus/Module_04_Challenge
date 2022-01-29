@@ -1,16 +1,15 @@
 # Module_04_Challenge
 Module 04 Challenge - PyCity Schools Analysis
 
-# Module_03_Challenge
-Module 03 Challenge - Election Analysis
-
 ## Overview of Project
-Module 3 Challenge. This project involves using Python to tabulate the results of a recent election for U.S. Representative for a Congressional District in Colorado.
+Module 4 Challenge. This project involves using Jupyter Notebooks, pandas, and NumPy to import, clean, manipulate, and analyze data related to student perfomance at 15 high school campuses within a School District.
 
 ### Purpose
-The purpose of this challenge is to take a CSV file containing data related to each of the ballots cast in the election, and provide results including the total number of votes cast, the number of votes cast by County and the percentage of the total vote associated with each County, the number of votes cast for each candidate and each candidate's percentage of the total number of votes cast, and an ascertainment of the candidate receiving the greatest number of votes.   
+The purpose of this challenge is to take CSV files containing student-level and campus-level data, clean the data as necessary, and then use pandas and NumPy to calculate relevant statistics related to student performance in several key areas, and to then aggregate that data on a grade-level basis, a campus-wide basis, and a district-wide basis, while also attempting to show the impact that per-student funding levels, school size, and a school's status as a Charter school or a traditional District-operated school have on student performance.
 
-## Election Audit Results
+As a result of potential irregulatrities in the data associated with 9th Grade students at Thomas High School, two different sets of analysis were performed - one utilizing the potentially irregular data as it was received, and a second analysis which excluded the test scores associated with 9th Grade students at Thomas High School
+
+## Results
 The results of our Election Audit are as follows:
 
 - Total Number of Votes Cast: 369,711
