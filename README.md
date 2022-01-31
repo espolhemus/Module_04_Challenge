@@ -50,7 +50,7 @@ The results of our Analysis of the data is as follows:
 
 ### Impact on Other Categorizations:
 
-  - The exclusion of performance data for 9th Grade Students at Thomas High School did not have a material impact on any of the other categories by which data was analyzed, including: 
+The exclusion of performance data for 9th Grade Students at Thomas High School did not have a material impact on any of the other categories by which data was analyzed, including: 
 
   - Math Scores by Grade:
        - Including Thomas High School 9th Graders:
@@ -68,7 +68,34 @@ The results of our Analysis of the data is as follows:
     
        - Excluding Thomas High School 9th Graders:
        
-      ![Reading Scores by Grade Including THS 9th Graders](/Images/Reading_Scores_Ex_THS_9th_Grade_Scores.png) 
+      ![Reading Scores by Grade Including THS 9th Graders](/Images/Reading_Scores_Ex_THS_9th_Grade_Scores.png)
+  
+  - Scores by Per Student Spending Levels (Thomas High School is Within the ($630 - $644) Bin):
+       - Including Thomas High School 9th Graders:
+       
+      ![Scores by Funding Level Including THS 9th Graders](/Images/Scores_Spending_Inc_THS_9th_Grade_Scores.png)
+    
+       - Excluding Thomas High School 9th Graders:
+       
+      ![Scores by Funding Level Excluding THS 9th Graders](/Images/Scores_Spending_Ex_THS_9th_Grade_Scores.png)
+      
+  - Scores by School Type (Thomas High School being a Charter School):
+       - Including Thomas High School 9th Graders:
+       
+      ![Scores by School Type Including THS 9th Graders](/Images/Scores_School_Type_Inc_THS_9th_Grade_Scores.png)
+    
+       - Excluding Thomas High School 9th Graders:
+       
+      ![Scores by School Type Excluding THS 9th Graders](/Images/Scores_School_Type_Ex_THS_9th_Grade_Scores.png)
+      
+   - Scores by School Size (Thomas High School being Classified as "Medium"):
+       - Including Thomas High School 9th Graders:
+       
+      ![Scores by School Size Including THS 9th Graders](/Images/Scores_School_Size_Inc_THS_9th_Grade_Scores.png)
+    
+       - Excluding Thomas High School 9th Graders:
+       
+      ![Scores by School Size Excluding THS 9th Graders](/Images/Scores_School_Size_Ex_THS_9th_Grade_Scores.png)
     
 ## Limitations
 
