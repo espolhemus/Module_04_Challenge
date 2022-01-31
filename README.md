@@ -10,23 +10,31 @@ The purpose of this challenge is to take CSV files containing student-level and 
 As a result of potential irregulatrities in the data associated with 9th Grade students at Thomas High School, two different sets of analysis were performed - one utilizing the potentially irregular data as it was received, and a second analysis which excluded the test scores associated with 9th Grade students at Thomas High School
 
 ## Results
-The results of our Election Audit are as follows:
+The results of our Analysis of the data is as follows:
 
-- Total Number of Votes Cast: 369,711
+### Impact of THS Data on Overall District Summary:
 
-- Total Votes by County, and Percentage of Total Votes Cast:
-  - Jefferson County: 68,855 (10.5%)
-  - Denver County: 306,055 (82.8%)
-  - Arapaho County: 24,801 (6.7%)
+  - As demonstrated by the following images of the District Summary, the exclusion of data for 9th Grade Students at Thomas High School had a negligible effect on the Overall District Summary.  The exclusion of data related to THS 9th Grade Students resulted in overal Average Math Scores for the distrcit declining by 0.1%, but had no impact on the Average Reading Score; the percentage of District students Passing Math declined by %0.2, and the percentage of District Students Passing Reading declined by 0.1%.  Excluding THS 9th Grade Students from the analysis resulted in a decline in the Overall Passing rate by 0.3%.
 
-- Denver County had the greatest number of votes cast, with 306,055 votes cast, accounting for 82.8% of the total number of votes cast,
+    - Original Data Set, Containing Perfomance Data for THS 9th Grade Students:
+    
+    ![District Summary Including THS 9th Graders](/Images/District_Summary_Inc_THS_9th_Grade_Scores.png)
+    
+    - Revised Data Set, Excluding Performance Data for THS 9th Grade Students: 
 
-- Total Votes for Each Candidate, and Percentage of Total Votes Cast:
-  - Charles Casper Stockham: 85,213 (23.0%)
-  - Diana DeGette: 272,892 (73.8%)
-  - Raymon Anthony Doane: 11,606 (3.1%)
+    ![District Summary Excluding THS 9th Graders](/Images/District_Summary_Ex_THS_9th_Grade_Scores.png)
 
-- Diana DeGette won the election, with a total of 272,892 votes out of the 369,711 total votes cast - 73.8% of the total number of ballots tabulated.
+### Impact on the Exclusion of 9th Grade Student Data on Overall Results of Thomas High School:
+
+  - Likewise, as demonstrated by the following images of the summary data for Thomas High School, the exclusion of data for 9th Grade Students had a negligible effect on the Overall Performance of the Campus.  The exclusion of data related to 9th Grade Students had no impact on Average Math Scores for the Campus, and resulted in an increase of 0.1% in the Average Reading Score; the percentage of Thomas High School students Passing Math, Passing Reading, and the Overall Passing rate were not impacted by the exclusion of the 9th Grade data 
+
+    - Thomas High School Summary, Containing Perfomance Data for 9th Grade Students:
+    
+    ![School Summary Including THS 9th Graders](/Images/THS_Summary_Including_9th_Grade_Scores.png)
+    
+    - Thomas High School Summary, Excluding Perfomance Data for 9th Grade Students: 
+
+    ![School Summary Excluding THS 9th Graders](/Images/THS_Summary_Excluding_9th_Grade_Scores.png)
 
 ## Election Audit Summary
 
