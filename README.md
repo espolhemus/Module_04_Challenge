@@ -53,19 +53,17 @@ The results of our Analysis of the data is as follows:
   - The exclusion of performance data for 9th Grade Students at Thomas High School did not have a material impact on any of the other categories by which data was analyzed, including: 
 
   - Math Scores by Grade:
-    
-      - Including Thomas High School 9th Graders:
+       - Including Thomas High School 9th Graders:
       ![Math Scores by Grade Including THS 9th Graders](/Images/Math_Scores_Inc_THS_9th_Grade_Scores.png)
     
-      - Excluding Thomas High School 9th Graders:
+       - Excluding Thomas High School 9th Graders:
       ![Math Scores by Grade Excluding THS 9th Graders](/Images/Math_Scores_Ex_THS_9th_Grade_Scores.png)
       
   - Reading Scores by Grade:
-    
-      - Including Thomas High School 9th Graders:
+       - Including Thomas High School 9th Graders:
       ![Reading Scores by Grade Including THS 9th Graders](/Images/Reading_Scores_Inc_THS_9th_Grade_Scores.png)
     
-      - Excluding Thomas High School 9th Graders:
+       - Excluding Thomas High School 9th Graders:
       ![Reading Scores by Grade Including THS 9th Graders](/Images/Reading_Scores_Ex_THS_9th_Grade_Scores.png) 
     
 ## Limitations
